@@ -14,9 +14,9 @@ const { ownername, botname, footer, ig, region, myweb, packname, author, session
 
 //customize settings\\
 global.APIKeys = {'https://zenzapis.xyz': YOUR_API_KEY } //credit goes to sanzy yt, if api key expire, buy it and put it here?\\ https://zenzapis.xyz
-global.owner = ['94761539856'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
-global.premium = ['94761539856'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
-global.ownernomer = '94761539856' // Add Your number Eg: ['YOUR NUMBER']
+global.owner = ['923130013796'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
+global.premium = ['923130013796'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
+global.ownernomer = '93130013796' // Add Your number Eg: ['YOUR NUMBER']
 // we got your name in your whatsapp
 
 
@@ -25,15 +25,15 @@ global.ownernomer = '94761539856' // Add Your number Eg: ['YOUR NUMBER']
 
 //Don't edit enithing\\
 global.APIs = APIs
-global.ownername = ownername
-global.botname = botname
-global.footer = footer
+global.ownername = AZAN
+global.botname = Selfish Azan
+global.footer = https://chat.whatsapp.com/KhWyp9Xi8c9F4tBfMebSH9
 global.ig = ig
-global.region = region
-global.myweb = myweb
+global.region = Pakistan
+global.myweb = https://chat.whatsapp.com/KhWyp9Xi8c9F4tBfMebSH9
 global.packname = packname
-global.author = author
-global.sessionName = sessionName
+global.author = Azan
+global.sessionName = Muhammad Azan
 global.prefa = prefa 
 global.sp = sp
 global.mess = mess
